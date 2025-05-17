@@ -166,7 +166,6 @@ hr {
 @media (min-width: 800px) {
 	.container {
 		display:flex;
-
 	}
 	.header_pub-info {
 		flex-direction: row;
